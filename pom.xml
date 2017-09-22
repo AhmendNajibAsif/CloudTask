@@ -4,6 +4,8 @@
   <artifactId>SampleProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <name>webappRunnerSample Maven Webapp</name>
+  <url>http://maven.apache.org</url>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
