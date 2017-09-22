@@ -1,0 +1,121 @@
+.section{
+	min-height: 20vh;
+	margin-bottom: 1vh;
+	padding: 0;
+}
+
+#header{
+
+}
+
+#header #icons{
+	margin-top: 5vh;
+	height: 10vh;
+}
+
+.lefticon{
+	float: right;
+	height: 42;
+	width: 42;
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+
+.righticon{
+	float: left;
+	height: 42;
+	width: 42;
+	margin-right: 1vw;
+	margin-top: 1vh;
+}
+
+#main {
+	overflow:auto;
+	padding: 1vh;
+}
+
+#sidebar{
+	float: left;
+	width: 16%;
+	height: 100%;
+	margin-right: 1vw;
+}
+
+#tsklist{
+	float: left;
+	width: 80%;
+	height: 100%;
+	margin-right: 1vw;
+}
+
+.tasks{
+	min-height: 7vh;
+	background-color: #1E90FF;/*#00bfff; */
+	color: white;
+}
+
+#tskinfo{
+	float: left;
+	min-width: 50%;
+	height: 100%;
+	overflow: auto;
+}
+
+#summary {
+	height: 15vh;
+	font-size: 3.5vh;
+	font-weight: 800;
+	overflow: auto;
+}
+
+#description{
+	height: 20vh;
+	font-size: 1.6vw;
+	overflow: auto;
+}
+
+#comment{
+	height: 12vh;
+	overflow: auto;
+	position: relative;
+	color: black;
+}
+
+#combuttons {
+	min-height: 5vh;
+	text-align: center;
+}
+
+#savebutton {
+	min-width: 12vw;
+	min-height: 8vh;
+	border-radius: 10px;
+}
+
+#savebutton:hover{
+	background-color: #008CBA;
+	min-width: 15vw;
+	-webkit-transition-duration: 2s;
+	 transition-duration: 2s;
+	-webkit-transition-delay: 1s; /* Safari */
+    transition-delay: 1s;
+}
+
+#comtype {
+	min-height: 12vh;
+}
+
+#main {
+	overflow:auto;
+}
+
+#graph {
+	overflow:auto;
+	min-height: 100px;
+	width: 200px;
+	border-style: solid;
+}
+
+#footer{
+	margin : 1vh;
+}
