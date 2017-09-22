@@ -38,7 +38,6 @@
 				
 				</iframe>
 			</div>
-			<!-- 
 			<div id="tsklist" class="w3-container w3-card-4" >
 				<div class="w3-panel w3-card-4 tasks" draggable="true" contenteditable="true" onkeyup="copyinfo(event)" onclick="displaySame(event)">
 					Task 1
@@ -83,7 +82,6 @@
 				</div>
 				
 			</div>
-			-->
 		</div>
 		<br/>
 		<div id="footer" class="section w3-container w3-card-4">
