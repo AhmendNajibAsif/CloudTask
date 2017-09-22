@@ -32,12 +32,13 @@
 				<a href="FaceBook/login.jsp" target="framepost"> FaceBook Login </a><br/> 
 				<a href="LinkedIn/login.jsp" target="framepost"> LinkedIn Login </a><br/> 
 			</div>
-			
+			<!--
 			<div id="tsklist" class="w3-container w3-card-4" >
 				<iframe name="framepost" style="width:100%; height:100%;">
 				
 				</iframe>
 			</div>
+			-->
 			<div id="tsklist" class="w3-container w3-card-4" >
 				<div class="w3-panel w3-card-4 tasks" draggable="true" contenteditable="true" onkeyup="copyinfo(event)" onclick="displaySame(event)">
 					Task 1
